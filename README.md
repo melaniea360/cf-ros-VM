@@ -9,3 +9,5 @@ This virtual machine was created using the instructions found at:
 https://github.com/JGSuw/rospy_crazyflie
 
 Examples and how to use the VM can be found at the above link.
+
+The password for user biorobotics is crazyflie
